@@ -1,0 +1,1 @@
+A concurrent background job queue in Go. Redis handles queuing, worker pools, retries and delayed jobs, with graceful shutdown. Postgres stores job history and results, with an HTTP API to inspect them.
